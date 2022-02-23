@@ -16,21 +16,22 @@ Tracks what music an individual listens to, and pairs them with others based on 
 - **Habit:** This app can be used as much as a user wants to.
 - **Scope:** This app has the potential to be a very popular application.
 
-## Product Spec
-### 1. User Stories (Required and Optional)
-
+##Product Spec
+###1. User Stories (Required and Optional)
 **Required Must-have Stories**
 
-* User logs in or continues as guest
-* User views list of popular alcoholic beverages and can interact with them.
-* User can search drinks and ingredients
-* Profile pages for each user
+*User views all drinks on drink page
+*Page of non-alcoholic drinks
+*User can search for drinks by name
+*User can visit the non-alcoholic, search, and drink page from home
+*Accesibility
 
 **Optional Nice-to-have Stories**
 
-* Home page may suggest drinks for user 
-* Prices for drinks
-* Blog
+*User filters drinks by category
+*User filters drinks by ingredient list
+*User logs in to add their own drink recipes
+*User profiles include basic info(name, intro(optional), and recipes they've contributed to the site)
 
 ### 2. Screens
 
